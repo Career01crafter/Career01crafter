@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Career01crafter
+- 👋 Hi, I’m @NarmeenAsghar
 - 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning AI from GIAIC
 
